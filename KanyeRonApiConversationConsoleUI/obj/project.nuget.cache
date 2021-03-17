@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/n/oJdzJ8GdHTDtuEbr2aHPBe15ovmzUA/Igy1H8xrLgXLloK3QFZUjqZRMQN+AvvMi4PNdPfSUGm5Ejxor0PQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ryanw\\source\\repos\\KanyeRonApiConversationApp\\KanyeRonApiConversationConsoleUI\\KanyeRonApiConversationConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryanw\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

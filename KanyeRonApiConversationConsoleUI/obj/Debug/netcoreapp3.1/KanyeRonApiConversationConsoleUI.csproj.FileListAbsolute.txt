@@ -1,0 +1,17 @@
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationConsoleUI\bin\Debug\netcoreapp3.1\KanyeRonApiConversationConsoleUI.exe
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationConsoleUI\bin\Debug\netcoreapp3.1\KanyeRonApiConversationConsoleUI.deps.json
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationConsoleUI\bin\Debug\netcoreapp3.1\KanyeRonApiConversationConsoleUI.runtimeconfig.json
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationConsoleUI\bin\Debug\netcoreapp3.1\KanyeRonApiConversationConsoleUI.runtimeconfig.dev.json
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationConsoleUI\bin\Debug\netcoreapp3.1\KanyeRonApiConversationConsoleUI.dll
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationConsoleUI\bin\Debug\netcoreapp3.1\KanyeRonApiConversationConsoleUI.pdb
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationConsoleUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationConsoleUI\obj\Debug\netcoreapp3.1\KanyeRonApiConversationConsoleUI.AssemblyInfoInputs.cache
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationConsoleUI\obj\Debug\netcoreapp3.1\KanyeRonApiConversationConsoleUI.AssemblyInfo.cs
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationConsoleUI\obj\Debug\netcoreapp3.1\KanyeRonApiConversationConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationConsoleUI\obj\Debug\netcoreapp3.1\KanyeRonApiConversationConsoleUI.csproj.CopyComplete
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationConsoleUI\obj\Debug\netcoreapp3.1\KanyeRonApiConversationConsoleUI.dll
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationConsoleUI\obj\Debug\netcoreapp3.1\KanyeRonApiConversationConsoleUI.pdb
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationConsoleUI\obj\Debug\netcoreapp3.1\KanyeRonApiConversationConsoleUI.genruntimeconfig.cache
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationConsoleUI\bin\Debug\netcoreapp3.1\KanyeRonApiConversationLibrary.dll
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationConsoleUI\bin\Debug\netcoreapp3.1\KanyeRonApiConversationLibrary.pdb
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationConsoleUI\obj\Debug\netcoreapp3.1\KanyeRonApiConversationConsoleUI.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationLibrary\obj\Debug\netcoreapp3.1\KanyeRonApiConversationLibrary.csprojAssemblyReference.cache
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationLibrary\obj\Debug\netcoreapp3.1\KanyeRonApiConversationLibrary.AssemblyInfoInputs.cache
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationLibrary\obj\Debug\netcoreapp3.1\KanyeRonApiConversationLibrary.AssemblyInfo.cs
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationLibrary\obj\Debug\netcoreapp3.1\KanyeRonApiConversationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationLibrary\bin\Debug\netcoreapp3.1\KanyeRonApiConversationLibrary.deps.json
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationLibrary\bin\Debug\netcoreapp3.1\KanyeRonApiConversationLibrary.dll
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationLibrary\bin\Debug\netcoreapp3.1\KanyeRonApiConversationLibrary.pdb
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationLibrary\obj\Debug\netcoreapp3.1\KanyeRonApiConversationLibrary.dll
+C:\Users\ryanw\source\repos\KanyeRonApiConversationApp\KanyeRonApiConversationLibrary\obj\Debug\netcoreapp3.1\KanyeRonApiConversationLibrary.pdb
